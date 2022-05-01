@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, express and typescript.**
 
-- 📫 How to reach me **shreyasxo@protonmail.com**
+- 📫 How to reach me **samanta.shreyas@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
